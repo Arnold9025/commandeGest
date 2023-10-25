@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "php.suggest.basic": false,
+    "php.validate.executablePath": "C:/wamp64/bin/php/php7.2.10/php.exe",
+}
